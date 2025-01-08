@@ -8,4 +8,7 @@ mangoLen = len(fruit)
 print(fruit[-1:len(fruit)-3])
 print(fruit[-3:-1])
 
-
+  
+# Quick Quiz:
+# nm = "thanvi"
+#print(nm[-4:-2])
