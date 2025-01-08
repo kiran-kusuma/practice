@@ -7,5 +7,8 @@ elif (num == 999):
     print("number is Special.")
 else:
     print("number is positive.")
+
+print("I am happy now")
+   
         
 
