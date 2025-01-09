@@ -1,4 +1,5 @@
-X = 4
+
+X = int(input("Enter the value of X:"))
 # X is the variable to match
 match X:
     # if X is )
@@ -12,6 +13,5 @@ match X:
         print("x is < 10")
     # default case( will only be matched if  the above cases were not matched)
     # so it is basically just an else:
-    case _:
-        print(X)    
-
+    case _ :
+        print(X)
